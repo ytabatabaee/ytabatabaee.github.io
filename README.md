@@ -1,1 +1,1 @@
-The source code is modified from Jon Barron's academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website.
+The source code is modified from Jon Barron's academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use. Please attribute the source to the original website.
