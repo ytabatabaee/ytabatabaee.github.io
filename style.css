@@ -94,10 +94,16 @@ heading {
   font-size: 24px;
 }
 
+subheading {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
-  font-weight: 600
+  font-weight: 400
 }
 
 name {
